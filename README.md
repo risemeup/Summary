@@ -6,3 +6,6 @@
 见pdf文档
 ### 3. 刷题数量？
 没有绝对数值，越多越好，按照pdf中推荐的顺序就已经差不多300+了，再去查缺补漏。难以理解并且容易考的（二分模板、kmp、快速幂、各种排序算法、各种背包）完全可以背下来，每天默写一遍。
+### 4. 八股文资料？
+①图解系统：百度网盘链接:https://pan.baidu.com/s/1sTPWDnVxm1WF6PZKQvQ-Lw 提取码:d7va 
+②图解网络：百度网盘链接: https://pan.baidu.com/s/1FfR8jpxdk6Bro23KddyU8A  密码: 9c4f
