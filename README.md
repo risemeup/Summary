@@ -10,3 +10,7 @@
 ①图解系统：百度网盘链接:https://pan.baidu.com/s/1sTPWDnVxm1WF6PZKQvQ-Lw 提取码:d7va 
 
 ②图解网络：百度网盘链接: https://pan.baidu.com/s/1FfR8jpxdk6Bro23KddyU8A  密码: 9c4f
+
+③MySQL实战：https://www.bilibili.com/video/BV1Vt411z7wy?p=2
+
+牛客mysql题目：https://www.nowcoder.com/ta/sql
